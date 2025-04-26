@@ -156,7 +156,5 @@ sections:
 metaTitle: >-
   meta name="google-site-verification"
   content="42r71ZBniG5GBd969m74zIlNJSN05j-7-SAn_FHGKkM"
-metaDescription: >-
-  <meta name="google-site-verification"
-  content="42r71ZBniG5GBd969m74zIlNJSN05j-7-SAn_FHGKkM" />
+metaDescription: ''
 ---
