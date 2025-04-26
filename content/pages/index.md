@@ -157,6 +157,6 @@ metaTitle: ''
 metaDescription: ''
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: ''
     content: ''
 ---
