@@ -5,9 +5,8 @@ sections:
   - type: TextSection
     title: This in an empty page
     subtitle: The section subtitle
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      google616461c9a8a5a47c%20.html
     colors: colors-f
     variant: variant-a
     elementId: ''
