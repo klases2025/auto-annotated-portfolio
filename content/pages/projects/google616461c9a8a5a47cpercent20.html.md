@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: google616461c9a8a5a47c%20.html
 date: '2025-04-26'
-client: Awesome client
+client: 'google-site-verification: google616461c9a8a5a47c.html'
 description: 'google-site-verification: google616461c9a8a5a47c.html'
 featuredImage:
   type: ImageBlock
