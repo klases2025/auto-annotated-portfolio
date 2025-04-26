@@ -155,4 +155,8 @@ sections:
         textAlign: left
 metaTitle: ''
 metaDescription: ''
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
