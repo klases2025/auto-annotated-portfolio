@@ -3,9 +3,7 @@ type: ProjectLayout
 title: google616461c9a8a5a47c%20.html
 date: '2025-04-26'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'google-site-verification: google616461c9a8a5a47c.html'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
