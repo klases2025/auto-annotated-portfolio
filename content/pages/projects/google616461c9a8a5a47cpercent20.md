@@ -28,3 +28,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+google-site-verification: google616461c9a8a5a47c.html
+
