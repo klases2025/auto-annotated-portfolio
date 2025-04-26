@@ -155,10 +155,5 @@ sections:
         textAlign: left
 metaTitle: ''
 metaDescription: ''
-metaTags:
-  - type: MetaTag
-    property: ''
-    content: >-
-      <meta name="google-site-verification"
-      content="42r71ZBniG5GBd969m74zIlNJSN05j-7-SAn_FHGKkM" />
+metaTags: []
 ---
