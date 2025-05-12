@@ -13,17 +13,20 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Transforma tu curiosidad en habilidad financiera
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Descubre la formación completa en trading que estabas buscando. Nuestra
+      página ofrece una experiencia educativa integral a través de videos
+      interactivos, contenido escrito claro y descargables en formato PDF.
+      Aprenderás desde cero qué es el trading, cómo tradear eficientemente y
+      realizar análisis técnico y fundamental para tomar decisiones informadas.
+      Ideal para principiantes que desean dominar el arte de los mercados
+      financieros y transformar conocimiento en habilidad. ¡Empieza tu viaje
+      hacia el éxito en trading hoy mismo!
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         margin:
           - mt-0
           - mb-0
@@ -153,4 +156,7 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+metaTitle: ''
+metaDescription: ''
+metaTags: []
 ---
